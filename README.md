@@ -1,0 +1,2 @@
+# MICROBIAL-INTERACTION-IN-PLANT-ORYZA-SATIVA-01-2022-to-01-2022-IGNTU-University-Amarkhantak
+work on Xanthomonas oryzae bacteria and its Pathogenic interaction on Oryza Sativa and work on the inhibition of bacteria and find the compound by use of 5 varieties of wild plants. work on Molecular docking and finding the binding sites of pathogen-responsible protein  work under the guidance of. Dr. Anirudh Kumar 
